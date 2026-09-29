@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="100%" height="100%">
+  <!-- Red Circle -->
+  <circle cx="110" cy="110" r="105" fill="#E31B23"/>
+  
+  <!-- White Flag and Bearer Silhouette -->
+  <!-- Waving Flag -->
+  <path d="M 33 80 C 60 45 100 40 140 52 C 115 75 85 80 33 80 Z" fill="#FFFFFF"/>
+  <path d="M 35 82 C 70 82 105 70 137 53 L 147 66 C 110 85 65 98 35 82 Z" fill="#FFFFFF"/>
+  
+  <!-- Flagpole -->
+  <path d="M 63 175 L 153 62 L 145 56 L 55 169 Z" fill="#FFFFFF"/>
+  
+  <!-- Bearer Body & Head -->
+  <circle cx="87" cy="115" r="13" fill="#FFFFFF"/>
+  <path d="M 73 165 C 65 140 77 125 93 125 C 103 135 97 155 87 168 C 81 172 75 170 73 165 Z" fill="#FFFFFF"/>
+  <path d="M 85 130 C 105 125 120 110 130 95 L 120 88 C 110 105 95 118 85 130 Z" fill="#FFFFFF"/>
+</svg>
